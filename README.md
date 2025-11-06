@@ -65,7 +65,7 @@ python -m spacy download en_core_web_sm
 
 ### 2. Chạy ứng dụng web
 ```bash
-python app1.py
+python app.py
 ```
 
 ### 3. Truy cập trình duyệt tại:
